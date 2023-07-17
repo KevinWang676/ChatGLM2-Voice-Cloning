@@ -1,4 +1,4 @@
-# ChatGLM2 Voice Cloning 🎶
+# ChatGLM2+Voice Cloning 🎶
 ## Chat with any character you like through ChatGLM2-6B and voice cloning in real time 🥳
 ### [简体中文](https://github.com/KevinWang676/ChatGLM2-Voice-Cloning/blob/main/README_zh.md)
 ## Easy to use 💡
