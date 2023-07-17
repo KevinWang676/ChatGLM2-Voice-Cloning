@@ -1,6 +1,6 @@
 # ChatGLM2 Voice Cloning 🎶
 ### [简体中文](https://github.com/KevinWang676/ChatGLM2-Voice-Cloning/blob/main/README_zh.md)
-### If you like the quick start, please star this repository. ⭐⭐⭐
+#### Chat with any character you like through ChatGLM2-6B and voice cloning in real time. 🥳
 ## Easy to use 💡
 
 (1) Run
@@ -25,3 +25,5 @@ apt install ffmpeg
 (6) Done! Now you can chat with any character you like through ChatGLM2-6B and voice cloning.
 
 ### Quick start: [HuggingFace Demo](https://huggingface.co/spaces/kevinwang676/FreeVC) 🤗
+
+### If you like the my application, please star this repository. ⭐⭐⭐
