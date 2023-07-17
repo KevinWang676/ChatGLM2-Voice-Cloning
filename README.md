@@ -1,6 +1,6 @@
 # ChatGLM2 Voice Cloning 🎶
 ### [简体中文]
-## How to use 💡
+## Easy to use 💡
 
 (1) Run
 ```
@@ -14,3 +14,5 @@ pip install -r requirements.txt
 (3) Delete the original file named `pretrained_bak_5805000.pt` in `./FreeVC/speaker_encoder/ckpt/` and upload a new version of `pretrained_bak_5805000.pt` to the same folder `./FreeVC/speaker_encoder/ckpt/`. You can download the new version through this [link](https://huggingface.co/spaces/kevinwang676/FreeVC/tree/main/speaker_encoder/ckpt).
 
 (4) Upload `app_new.py` in this repository to the folder `./FreeVC/` and run `python app_new.py`.
+
+(5) Done! Now you can chat with any character you like through ChatGLM2-6B and voice cloning.
