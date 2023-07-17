@@ -20,7 +20,7 @@ apt install ffmpeg
 
 (4) Upload `pretrained_bak_5805000.pt` to the folder `./ChatGLM2-Voice-Cloning/speaker_encoder/ckpt/`. You can download `pretrained_bak_5805000.pt` through this [link](https://huggingface.co/spaces/kevinwang676/FreeVC/tree/main/speaker_encoder/ckpt).
 
-(5) Run `python app_new.py`.
+(5) Run `python app_en.py`.
 
 (6) Done! Now you can open Gradio interface and chat with any character you like through ChatGLM2-6B and voice cloning. 💕
 
