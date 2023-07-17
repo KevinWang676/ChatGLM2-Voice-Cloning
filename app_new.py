@@ -481,5 +481,4 @@ with gr.Blocks(title="ChatGLM2-6B-int4", theme=gr.themes.Soft(text_size="sm")) a
         </div>
     ''')
 
-
-demo.launch(show_error=True, debug=True)
+demo.queue().launch(show_error=True, debug=True, server_port=6006)
