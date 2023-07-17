@@ -37,6 +37,7 @@ apt install ffmpeg
 
 ### 如果您喜欢这个程序，欢迎给我的Github项目点赞支持！ ⭐⭐⭐
 
-Gradio界面：
-![61d5eeddd238311f1ddc0211803676b](https://github.com/KevinWang676/ChatGLM2-Voice-Cloning/assets/126712357/21fde057-65c7-4120-adee-2a0acb4fc0e7)
+Gradio使用界面：
+
+![image](https://github.com/KevinWang676/ChatGLM2-Voice-Cloning/assets/126712357/2b4fe4c9-1c85-4e4c-94cb-2c96315f7abd)
 
