@@ -5,7 +5,7 @@
 
 (1) Run
 ```
-git clone https://huggingface.co/spaces/kevinwang676/FreeVC.git
+git clone https://github.com/KevinWang676/ChatGLM2-Voice-Cloning.git
 cd FreeVC
 pip install -r requirements.txt
 ```
@@ -16,15 +16,15 @@ sudo apt update && sudo apt upgrade
 apt install ffmpeg
 ```
 
-(3) Create a new folder named `checkpoint` under `./FreeVC/` and upload `freevc-24.pth` to the new folder. You can download `freevc-24.pth` through this [link](https://huggingface.co/spaces/kevinwang676/FreeVC/tree/main/checkpoints).
+(3) Upload `freevc-24.pth` to the folder `./FreeVC/checkpoint/`. You can download `freevc-24.pth` through this [link](https://huggingface.co/spaces/kevinwang676/FreeVC/tree/main/checkpoints).
 
-(4) Delete the original file named `pretrained_bak_5805000.pt` in `./FreeVC/speaker_encoder/ckpt/` and upload a new version of `pretrained_bak_5805000.pt` to the same folder `./FreeVC/speaker_encoder/ckpt/`. You can download the new version through this [link](https://huggingface.co/spaces/kevinwang676/FreeVC/tree/main/speaker_encoder/ckpt).
+(4) Upload `pretrained_bak_5805000.pt` to the folder `./FreeVC/speaker_encoder/ckpt/`. You can download `pretrained_bak_5805000.pt` through this [link](https://huggingface.co/spaces/kevinwang676/FreeVC/tree/main/speaker_encoder/ckpt).
 
-(5) Upload `app_new.py` in this repository to the folder `./FreeVC/` and run `python app_new.py`.
+(5) Run `python app_new.py`.
 
-(6) Done! Now you can chat with any character you like through ChatGLM2-6B and voice cloning.
+(6) Done! Now you can open Gradio interface and chat with any character you like through ChatGLM2-6B and voice cloning. 💕
 
-P.S. The code is based on [ChatGLM2-6B](https://github.com/THUDM/ChatGLM2-6B) and [FreeVC](https://github.com/OlaWod/FreeVC). You can see the entire structure of the code via this [link](https://huggingface.co/spaces/kevinwang676/FreeVC/tree/main).
+P.S. The code is based on [ChatGLM2-6B](https://github.com/THUDM/ChatGLM2-6B) and [FreeVC](https://github.com/OlaWod/FreeVC).
 
 ### Quick start: [HuggingFace Demo](https://huggingface.co/spaces/kevinwang676/FreeVC) 🤗
 
