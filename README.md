@@ -1,4 +1,4 @@
-# ChatGLM2 Voice Cloning 💕🎶🌟
+# ChatGLM2 Voice Cloning 🎶
 ### [简体中文]
 ## How to use 💡
 
