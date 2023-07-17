@@ -24,6 +24,8 @@ apt install ffmpeg
 
 (6) Done! Now you can chat with any character you like through ChatGLM2-6B and voice cloning.
 
+P.S. You can see the entire structure of the code via this [link](https://huggingface.co/spaces/kevinwang676/FreeVC/tree/main).
+
 ### Quick start: [HuggingFace Demo](https://huggingface.co/spaces/kevinwang676/FreeVC) 🤗
 
 ### If you like the my application, please star this repository. ⭐⭐⭐
