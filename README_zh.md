@@ -24,3 +24,5 @@ apt install ffmpeg
 (6) 完成！您现在就可以点击进入Gradio网页使用ChatGLM2-6B+声音克隆程序，和喜欢的角色开启沉浸式对话啦！
 
 ### 快速开始: [HuggingFace在线程序](https://huggingface.co/spaces/kevinwang676/FreeVC) 🤗
+
+### 如果您喜欢这个程序，欢迎给我的Github项目点赞支持！
