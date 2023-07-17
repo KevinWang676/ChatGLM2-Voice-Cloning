@@ -16,3 +16,5 @@ pip install -r requirements.txt
 (4) Upload `app_new.py` in this repository to the folder `./FreeVC/` and run `python app_new.py`.
 
 (5) Done! Now you can chat with any character you like through ChatGLM2-6B and voice cloning.
+
+### Quick start: [HuggingFace Demo](https://huggingface.co/spaces/kevinwang676/FreeVC) 🤗
