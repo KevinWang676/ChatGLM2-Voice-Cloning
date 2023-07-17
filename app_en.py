@@ -41,7 +41,7 @@ freevc_24 = SynthesizerTrn(
     hps.train.segment_size // hps.data.hop_length,
     **hps.model).to(device)
 _ = freevc_24.eval()
-_ = utils.load_checkpoint("checkpoints/freevc-24.pth", freevc_24, None)
+_ = utils.load_checkpoint("checkpoint/freevc-24.pth", freevc_24, None) # new folder
 
 print("Loading WavLM for content...")
 cmodel = WavLMModel.from_pretrained("microsoft/wavlm-large").to(device)
@@ -481,4 +481,4 @@ with gr.Blocks(title="ChatGLM2-6B-int4", theme=gr.themes.Soft(text_size="sm")) a
     ''')
 
 
-demo.queue().launch(show_error=True, debug=True)
+demo.queue().launch(show_error=True, debug=True, server_port=6006)
