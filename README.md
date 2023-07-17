@@ -6,7 +6,7 @@
 (1) Run
 ```
 git clone https://github.com/KevinWang676/ChatGLM2-Voice-Cloning.git
-cd FreeVC
+cd ChatGLM2-Voice-Cloning
 pip install -r requirements.txt
 ```
 
@@ -16,9 +16,9 @@ sudo apt update && sudo apt upgrade
 apt install ffmpeg
 ```
 
-(3) Upload `freevc-24.pth` to the folder `./FreeVC/checkpoint/`. You can download `freevc-24.pth` through this [link](https://huggingface.co/spaces/kevinwang676/FreeVC/tree/main/checkpoints).
+(3) Upload `freevc-24.pth` to the folder `./ChatGLM2-Voice-Cloning/checkpoint/`. You can download `freevc-24.pth` through this [link](https://huggingface.co/spaces/kevinwang676/FreeVC/tree/main/checkpoints).
 
-(4) Upload `pretrained_bak_5805000.pt` to the folder `./FreeVC/speaker_encoder/ckpt/`. You can download `pretrained_bak_5805000.pt` through this [link](https://huggingface.co/spaces/kevinwang676/FreeVC/tree/main/speaker_encoder/ckpt).
+(4) Upload `pretrained_bak_5805000.pt` to the folder `./ChatGLM2-Voice-Cloning/speaker_encoder/ckpt/`. You can download `pretrained_bak_5805000.pt` through this [link](https://huggingface.co/spaces/kevinwang676/FreeVC/tree/main/speaker_encoder/ckpt).
 
 (5) Run `python app_new.py`.
 
