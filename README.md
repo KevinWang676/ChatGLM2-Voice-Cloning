@@ -1,5 +1,5 @@
 # ChatGLM2 Voice Cloning 🎶
-### [简体中文]
+### [简体中文](https://github.com/KevinWang676/ChatGLM2-Voice-Cloning/blob/main/README_zh.md)
 ## Easy to use 💡
 
 (1) Run
