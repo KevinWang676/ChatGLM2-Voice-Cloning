@@ -25,4 +25,6 @@ apt install ffmpeg
 
 ### 快速开始: [HuggingFace在线程序](https://huggingface.co/spaces/kevinwang676/FreeVC) 🤗
 
+### AutoDL部署：[AutoDL镜像](https://www.codewithgpu.com/i/KevinWang676/ChatGLM2-Voice-Cloning/ChatGLM2-Voice-Cloning)，运行环境及文件均已配置好，可一键使用 ⚡
+
 ### 如果您喜欢这个程序，欢迎给我的Github项目点赞支持！
