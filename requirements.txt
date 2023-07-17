@@ -1,0 +1,15 @@
+numpy==1.22.0
+scipy
+torch
+transformers
+librosa==0.8.1
+webrtcvad==2.0.10
+protobuf
+cpm_kernels
+mdtex2html
+sentencepiece
+accelerate
+loguru
+edge_tts
+altair
+gradio==3.36.1
