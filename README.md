@@ -29,3 +29,8 @@ P.S. The code is based on [ChatGLM2-6B](https://github.com/THUDM/ChatGLM2-6B) an
 ### Quick start: [HuggingFace Demo](https://huggingface.co/spaces/kevinwang676/FreeVC-en) 🤗
 
 ### If you like the my application, please star this repository. ⭐⭐⭐
+
+Gradio Interface:
+
+![image](https://github.com/KevinWang676/ChatGLM2-Voice-Cloning/assets/126712357/52590529-4f61-4aae-acd7-afa081af0aa3)
+
