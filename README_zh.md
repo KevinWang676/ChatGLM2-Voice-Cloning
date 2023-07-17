@@ -5,7 +5,7 @@
 (1) 在终端中运行
 ```
 git clone https://github.com/KevinWang676/ChatGLM2-Voice-Cloning.git
-cd FreeVC
+cd ChatGLM2-Voice-Cloning
 pip install -r requirements.txt
 ```
 
@@ -15,9 +15,9 @@ sudo apt update && sudo apt upgrade
 apt install ffmpeg
 ```
 
-(3) 将`freevc-24.pth`文件上传至`./FreeVC/checkpoint/`文件夹。您可以通过[此链接](https://huggingface.co/spaces/kevinwang676/FreeVC/tree/main/checkpoints)下载`freevc-24.pth`文件。
+(3) 将`freevc-24.pth`文件上传至`./ChatGLM2-Voice-Cloning/checkpoint/`文件夹。您可以通过[此链接](https://huggingface.co/spaces/kevinwang676/FreeVC/tree/main/checkpoints)下载`freevc-24.pth`文件。
 
-(4) 将`pretrained_bak_5805000.pt`文件上传至`./FreeVC/speaker_encoder/ckpt/`文件夹。您可以通过[此链接](https://huggingface.co/spaces/kevinwang676/FreeVC/tree/main/speaker_encoder/ckpt)下载`pretrained_bak_5805000.pt`文件。
+(4) 将`pretrained_bak_5805000.pt`文件上传至`./ChatGLM2-Voice-Cloning/speaker_encoder/ckpt/`文件夹。您可以通过[此链接](https://huggingface.co/spaces/kevinwang676/FreeVC/tree/main/speaker_encoder/ckpt)下载`pretrained_bak_5805000.pt`文件。
 
 (5) 在终端中运行`python app_new.py`。
 
