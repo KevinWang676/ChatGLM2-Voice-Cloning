@@ -25,8 +25,8 @@ apt install ffmpeg
 (6) 完成！您现在就可以点击进入Gradio网页使用ChatGLM2-6B+声音克隆程序，和喜欢的角色开启沉浸式对话啦！ 💕
 
 使用指南：
-* 本项目基于[ChatGLM2-6B](https://github.com/THUDM/ChatGLM2-6B)和[FreeVC](https://github.com/OlaWod/FreeVC)。
-* 如何使用此程序：输入并发送您对ChatGLM2的提问后，依次点击“开始和GLM2交流吧”、“生成对应的音频吧”、“开始AI声音克隆吧”三个按键即可。
+* 本项目基于[ChatGLM2-6B](https://github.com/THUDM/ChatGLM2-6B)、[FreeVC](https://github.com/OlaWod/FreeVC)和[SadTalker](https://github.com/OpenTalker/SadTalker)，需要使用GPU。
+* 如何使用此程序：输入并发送您对ChatGLM2的提问后，依次点击“开始和GLM2交流吧”、“生成对应的音频吧”、“开始AI声音克隆吧”、“开始视频聊天吧”三个按键即可。
 * 如果您想让ChatGLM2进行角色扮演并与之对话，请先输入恰当的提示词，如“请你扮演成动漫角色蜡笔小新并和我进行对话”；您也可以为ChatGLM2提供自定义的角色设定。
 * 当您使用声音克隆功能时，请先在此程序的对应位置上传一段您喜欢的音频，5秒左右即可；上传音频的质量会直接影响声音克隆的效果。
 * 请不要生成任何会对个人或组织造成侵害的内容。
