@@ -1,5 +1,6 @@
 # ChatGLM2+声音克隆+视频对话 🎶
 ### 和喜欢的角色沉浸式对话、畅所欲言吧：ChatGLM2-6B+FreeVC+SadTalker 🌟
+> 07/18/2023更新：增加SadTalker功能，开启视频对话新模态，在线程序见下方HuggingFace链接，代码正在更新中
 ## 如何使用 💡
 
 (1) 在终端中运行
