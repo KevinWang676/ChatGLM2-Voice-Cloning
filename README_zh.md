@@ -32,6 +32,9 @@ apt install ffmpeg
 * 当您使用声音克隆功能时，请先在此程序的对应位置上传一段您喜欢的音频，5~10秒即可；上传音频的质量会直接影响声音克隆的效果。
 * 请不要生成任何会对个人或组织造成侵害的内容。
 
+效果示例：
+
+https://github.com/KevinWang676/ChatGLM2-Voice-Cloning/assets/126712357/e33950a3-5558-4b53-8797-cf15fa9ed6ef
 
 ### 快速开始: [HuggingFace在线程序](https://huggingface.co/spaces/kevinwang676/ChatGLM2-SadTalker-VC) 🤗
 
