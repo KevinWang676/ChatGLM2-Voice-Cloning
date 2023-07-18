@@ -26,7 +26,7 @@ apt install ffmpeg
 
 P.S. The code is based on [ChatGLM2-6B](https://github.com/THUDM/ChatGLM2-6B), [FreeVC](https://github.com/OlaWod/FreeVC), and [SadTalker](https://github.com/OpenTalker/SadTalker).
 
-### Quick start: [HuggingFace Demo](https://huggingface.co/spaces/kevinwang676/FreeVC-en) 🤗
+### Quick start: [HuggingFace Demo](https://huggingface.co/spaces/kevinwang676/ChatGLM2-SadTalker-VC-en) 🤗
 
 ### If you like the my application, please star this repository. ⭐⭐⭐
 
