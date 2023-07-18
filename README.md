@@ -1,5 +1,5 @@
-# ChatGLM2+SadTalker+Voice Cloning 🎶
-## Chat with any character you like immersively through ChatGLM2-6B and voice cloning in real time 🥳
+# ChatGLM2+Voice Cloning+SadTalker 🎶
+## Chat with any character you like immersively through ChatGLM2-6B, FreeVC and SadTalker in real time 🥳
 ### [简体中文](https://github.com/KevinWang676/ChatGLM2-Voice-Cloning/blob/main/README_zh.md)
 ## Easy to use 💡
 
