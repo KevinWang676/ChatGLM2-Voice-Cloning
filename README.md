@@ -1,5 +1,5 @@
-# ChatGLM2+Voice Cloning 🎶
-## Chat with any character you like through ChatGLM2-6B and voice cloning in real time 🥳
+# ChatGLM2+SadTalker+Voice Cloning 🎶
+## Chat with any character you like immersively through ChatGLM2-6B and voice cloning in real time 🥳
 ### [简体中文](https://github.com/KevinWang676/ChatGLM2-Voice-Cloning/blob/main/README_zh.md)
 ## Easy to use 💡
 
@@ -24,7 +24,7 @@ apt install ffmpeg
 
 (6) Done! Now you can open Gradio interface and chat with any character you like through ChatGLM2-6B and voice cloning. 💕
 
-P.S. The code is based on [ChatGLM2-6B](https://github.com/THUDM/ChatGLM2-6B) and [FreeVC](https://github.com/OlaWod/FreeVC).
+P.S. The code is based on [ChatGLM2-6B](https://github.com/THUDM/ChatGLM2-6B), [FreeVC](https://github.com/OlaWod/FreeVC), and [SadTalker](https://github.com/OpenTalker/SadTalker).
 
 ### Quick start: [HuggingFace Demo](https://huggingface.co/spaces/kevinwang676/FreeVC-en) 🤗
 
