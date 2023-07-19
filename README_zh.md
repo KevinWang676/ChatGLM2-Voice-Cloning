@@ -6,6 +6,8 @@
 
 ### v1: ChatGLM2-6B+FreeVC
 
+### 本地部署
+
 (1) 在终端中运行
 ```
 git clone https://github.com/KevinWang676/ChatGLM2-Voice-Cloning.git
