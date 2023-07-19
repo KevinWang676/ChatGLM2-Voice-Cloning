@@ -4,7 +4,7 @@
 
 ## 如何使用 💡
 
-#### v1: ChatGLM2-6B+FreeVC
+### v1: ChatGLM2-6B+FreeVC
 
 (1) 在终端中运行
 ```
@@ -35,11 +35,11 @@ apt install ffmpeg
 * 请不要生成任何会对个人或组织造成侵害的内容。
 
 您还可以使用AutoDL一键部署：
-#### AutoDL部署：[AutoDL镜像](https://www.codewithgpu.com/i/KevinWang676/ChatGLM2-Voice-Cloning/ChatGLM2-Voice-Cloning)，运行环境及文件均已配置好，可一键使用 ⚡
+### AutoDL部署：[AutoDL镜像](https://www.codewithgpu.com/i/KevinWang676/ChatGLM2-Voice-Cloning/ChatGLM2-Voice-Cloning)，运行环境及文件均已配置好，可一键使用 ⚡
 
 ## 如何使用最新版SadTalker功能 📺
 
-#### v2: ChatGLM2-6B+FreeVC+SadTalker
+### v2: ChatGLM2-6B+FreeVC+SadTalker
 
 ### (1) 本地部署
 
