@@ -67,7 +67,7 @@ pip install -r requirements.txt
 
 ### 执行程序
 
-在终端中运行`python app.py`
+在终端中运行`python app.py`；您现在可以点击进入Gradio网页使用ChatGLM2-6B+声音克隆+视频对话，和喜欢的角色开启沉浸式对话啦！ 💕
 
 ### (2) 快速开始：[Colab Notebook](https://colab.research.google.com/github/KevinWang676/ChatGLM2-Voice-Cloning/blob/main/ChatGLM2_VC_SadTalker.ipynb) ⚡
 
