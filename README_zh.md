@@ -52,7 +52,9 @@ apt install ffmpeg
 
 ### 如果您喜欢这个程序，欢迎给我的Github项目点赞支持！ ⭐⭐⭐
 
-视频效果展示：
+
+
+SadTalker效果演示：
 
 https://github.com/KevinWang676/ChatGLM2-Voice-Cloning/assets/126712357/e33950a3-5558-4b53-8797-cf15fa9ed6ef
 
