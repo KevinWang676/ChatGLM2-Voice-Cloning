@@ -43,7 +43,7 @@ apt install ffmpeg
 
 ### (1) 本地部署
 
-### (2) 快速开始：[Colab Notebook]()
+### (2) 快速开始：[Colab Notebook](https://colab.research.google.com/github/KevinWang676/ChatGLM2-Voice-Cloning/blob/main/ChatGLM2_VC_SadTalker.ipynb) ⚡
 
 ### (3) HuggingFace在线程序: [ChatGLM2-6B+FreeVC+SadTalker](https://huggingface.co/spaces/kevinwang676/ChatGLM2-SadTalker-VC) 🤗
 
