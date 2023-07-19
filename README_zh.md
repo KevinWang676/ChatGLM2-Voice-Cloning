@@ -45,6 +45,30 @@ apt install ffmpeg
 
 ### (1) 本地部署
 
+#### 配置环境
+
+在终端中运行
+```
+curl -s https://packagecloud.io/install/repositories/github/git-lfs/script.deb.sh | sudo bash
+sudo apt-get install git-lfs
+sudo apt install build-essential
+apt install ffmpeg
+apt-get update && apt-get install ffmpeg libsm6 libxext6  -y
+```
+
+#### 安装依赖
+
+在终端中运行
+```
+git clone https://huggingface.co/spaces/kevinwang676/ChatGLM2-SadTalker.git
+cd ChatGLM2-SadTalker
+pip install -r requirements.txt
+```
+
+#### 执行程序
+
+在终端中运行`python app.py`
+
 ### (2) 快速开始：[Colab Notebook](https://colab.research.google.com/github/KevinWang676/ChatGLM2-Voice-Cloning/blob/main/ChatGLM2_VC_SadTalker.ipynb) ⚡
 
 ### (3) HuggingFace在线程序: [ChatGLM2-6B+FreeVC+SadTalker](https://huggingface.co/spaces/kevinwang676/ChatGLM2-SadTalker-VC) 🤗
