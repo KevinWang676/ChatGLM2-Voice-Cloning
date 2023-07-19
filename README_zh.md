@@ -4,6 +4,8 @@
 
 ## 如何使用 💡
 
+#### ChatGLM2-6B+FreeVC
+
 (1) 在终端中运行
 ```
 git clone https://github.com/KevinWang676/ChatGLM2-Voice-Cloning.git
@@ -32,9 +34,19 @@ apt install ffmpeg
 * 当您使用声音克隆功能时，请先在此程序的对应位置上传一段您喜欢的音频，5~10秒即可；上传音频的质量会直接影响声音克隆的效果。
 * 请不要生成任何会对个人或组织造成侵害的内容。
 
-### 快速开始: [HuggingFace在线程序](https://huggingface.co/spaces/kevinwang676/ChatGLM2-SadTalker-VC) 🤗
+您还可以使用AutoDL一键部署：
+#### AutoDL部署：[AutoDL镜像](https://www.codewithgpu.com/i/KevinWang676/ChatGLM2-Voice-Cloning/ChatGLM2-Voice-Cloning)，运行环境及文件均已配置好，可一键使用 ⚡
 
-### AutoDL部署：[AutoDL镜像](https://www.codewithgpu.com/i/KevinWang676/ChatGLM2-Voice-Cloning/ChatGLM2-Voice-Cloning)，运行环境及文件均已配置好，可一键使用 ⚡
+## 如何使用最新版SadTalker功能 📺
+
+#### ChatGLM2-6B+FreeVC+SadTalker
+
+### (1) 本地部署
+
+### (2) 快速开始：[Colab Notebook]()
+
+### (3) HuggingFace在线程序: [ChatGLM2-6B+FreeVC+SadTalker](https://huggingface.co/spaces/kevinwang676/ChatGLM2-SadTalker-VC) 🤗
+
 
 ### 如果您喜欢这个程序，欢迎给我的Github项目点赞支持！ ⭐⭐⭐
 
