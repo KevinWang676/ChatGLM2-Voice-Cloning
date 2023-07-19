@@ -45,7 +45,7 @@ apt install ffmpeg
 
 ### (1) 本地部署
 
-#### 配置环境
+### 配置环境
 
 在终端中运行
 ```
@@ -56,7 +56,7 @@ apt install ffmpeg
 apt-get update && apt-get install ffmpeg libsm6 libxext6  -y
 ```
 
-#### 安装依赖
+### 安装依赖
 
 在终端中运行
 ```
@@ -65,7 +65,7 @@ cd ChatGLM2-SadTalker
 pip install -r requirements.txt
 ```
 
-#### 执行程序
+### 执行程序
 
 在终端中运行`python app.py`
 
