@@ -12,4 +12,4 @@ accelerate
 loguru
 edge_tts
 altair
-gradio==3.36.1
+gradio
