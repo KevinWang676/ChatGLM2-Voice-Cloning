@@ -75,7 +75,7 @@ pip install -r requirements.txt
 
 ### (3) HuggingFace在线程序：[ChatGLM2-6B+FreeVC+SadTalker](https://huggingface.co/spaces/kevinwang676/ChatGLM2-SadTalker-VC) 🤗
 
-## AI歌手数字人：想把我唱给你听 (08/11更新)
+## 🤵‍♀️ AI歌手数字人：想把我唱给你听 (08/11更新)
 
 ### 如果您喜欢这个程序，欢迎给我的Github项目点赞支持！ ⭐⭐⭐
 
