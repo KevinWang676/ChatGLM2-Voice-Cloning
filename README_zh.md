@@ -2,7 +2,7 @@
 ## 和喜欢的角色沉浸式视频对话吧：ChatGLM2-6B+FreeVC+SadTalker 📺💕🍻
 > 07/19/2023更新：增加SadTalker功能，开启视频对话新模态，部署教程见下方[v2: ChatGLM2-6B+FreeVC+SadTalker](https://github.com/KevinWang676/ChatGLM2-Voice-Cloning/blob/main/README_zh.md#v2-chatglm2-6bfreevcsadtalker)
 
-> 08/11/2023更新：增加AI歌手数字人功能，“想把我唱给你听”，本地部署教程见下方[AI歌手数字人](https://github.com/KevinWang676/ChatGLM2-Voice-Cloning/blob/main/README_zh.md#%EF%B8%8F-ai%E6%AD%8C%E6%89%8B%E6%95%B0%E5%AD%97%E4%BA%BA%E6%83%B3%E6%8A%8A%E6%88%91%E5%94%B1%E7%BB%99%E4%BD%A0%E5%90%AC-0811%E6%9B%B4%E6%96%B0)
+> 08/11/2023更新：增加AI歌手数字人功能，“想把我唱给你听”，本地部署教程见下方[AI歌手数字人](https://github.com/KevinWang676/ChatGLM2-Voice-Cloning/blob/main/README_zh.md#ai%E6%AD%8C%E6%89%8B%E6%95%B0%E5%AD%97%E4%BA%BA%E6%83%B3%E6%8A%8A%E6%88%91%E5%94%B1%E7%BB%99%E4%BD%A0%E5%90%AC-0811%E6%9B%B4%E6%96%B0)
 
 ## 如何使用 💡
 
