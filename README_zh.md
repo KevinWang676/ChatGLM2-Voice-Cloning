@@ -75,7 +75,33 @@ pip install -r requirements.txt
 
 ### (3) HuggingFace在线程序：[ChatGLM2-6B+FreeVC+SadTalker](https://huggingface.co/spaces/kevinwang676/ChatGLM2-SadTalker-VC) 🤗
 
-## 🤵‍♀️ AI歌手数字人：想把我唱给你听 (08/11更新)
+## AI歌手数字人：想把我唱给你听 (08/11更新)
+
+### 本地部署
+
+### 配置环境（同v2）
+
+在终端中运行
+```
+curl -s https://packagecloud.io/install/repositories/github/git-lfs/script.deb.sh | sudo bash
+sudo apt-get install git-lfs
+sudo apt install build-essential
+apt install ffmpeg
+apt-get update && apt-get install ffmpeg libsm6 libxext6  -y
+```
+
+### 安装依赖
+
+在终端中运行
+```
+git clone https://huggingface.co/spaces/kevinwang676/VoiceChanger.git
+cd VoiceChanger
+pip install -r requirements.txt
+```
+
+### 执行程序
+
+在终端中运行`python app_multi.py`；您现在可以点击进入Gradio网页使用AI歌手数字人，让AI歌手唱给您听吧！ 🤵‍♀️💕
 
 ### 如果您喜欢这个程序，欢迎给我的Github项目点赞支持！ ⭐⭐⭐
 
@@ -84,6 +110,8 @@ pip install -r requirements.txt
 SadTalker效果演示：
 
 https://github.com/KevinWang676/ChatGLM2-Voice-Cloning/assets/126712357/e33950a3-5558-4b53-8797-cf15fa9ed6ef
+
+AI歌手数字人效果演示：
 
 Gradio聊天界面：
 
