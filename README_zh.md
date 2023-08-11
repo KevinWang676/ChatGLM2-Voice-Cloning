@@ -113,6 +113,8 @@ https://github.com/KevinWang676/ChatGLM2-Voice-Cloning/assets/126712357/e33950a3
 
 AI歌手数字人效果演示：
 
+https://github.com/KevinWang676/ChatGLM2-Voice-Cloning/assets/126712357/0c4dd9f4-faf8-4798-9a9c-645d8bcf4c24
+
 Gradio聊天界面：
 
 ![image](https://github.com/KevinWang676/ChatGLM2-Voice-Cloning/assets/126712357/2b4fe4c9-1c85-4e4c-94cb-2c96315f7abd)
